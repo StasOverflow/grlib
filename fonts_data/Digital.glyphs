@@ -1,0 +1,12 @@
+#############################################################################
+#
+# Format: 
+# start_code_point_block_1, end_codepiontblock_1
+# start_code_point_block_2, end_codepiontblock_2
+# start_code_point_block_2, end_codepiontblock_2
+#
+#############################################################################
+
+0x0020, 0x005A
+0x006D
+0x00B0
